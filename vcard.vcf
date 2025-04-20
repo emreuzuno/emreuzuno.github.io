@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Emre Uzunoglu
+N;CHARSET=UTF-8:Uzunoglu;Emre;;;
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:emreuzuno@gmail.com
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:emre.uzunoglu@ukaea.uk
+LABEL;CHARSET=UTF-8;TYPE=WORK:UK Atomic Energy Authority
+ADR;CHARSET=UTF-8;TYPE=WORK:;;;;;;UK
+ROLE;CHARSET=UTF-8:Senior Robotics Research Engineer
+ORG;CHARSET=UTF-8:UKAEA
+URL;type=WORK;CHARSET=UTF-8:https://ccfe.ukaea.uk/
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/emre-uzunoglu/
+X-SOCIALPROFILE;TYPE=Google Scholar:https://scholar.google.com/citations?user=WqrtPgQAAAAJ&hl=tr&oi=ao
+REV:2025-04-20T15:10:49.979Z
+END:VCARD
