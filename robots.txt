@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://emreuzuno.github.io/sitemap.xml
